@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">Physical Education Teacher & Software Engineering Student</h3>
+<h2 align="left">Physical Education Teacher & Software Engineering Student</h2>
 
 ###
 
-<h4 align="left">About me</h4>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">🛠 Skills</h4>
+<h3 align="left">🛠 Skills</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
