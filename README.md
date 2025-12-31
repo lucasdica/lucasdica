@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Physical Education Teacher & Software Development Student</h3>
+<h3 align="left">Physical Education Teacher & Software Engineering Student</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 💻 Passionate about software development and education<br>- 🤖 Interested in technology, robotics and artificial intelligence<br>- 🚀 Currently learning web development and programming</p>
+<p align="left">- 🎓 Starting Software Engineering studies<br>- 💻 Passionate about software development and education<br>- 🤖 Interested in technology, robotics and artificial intelligence<br>- 🚀 Currently learning web development and programming</p>
 
 ###
 
