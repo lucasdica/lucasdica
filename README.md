@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<p align="left">- 📫 How to reach me: linkedin.com/in/lucas-di-catarina/</p>
-
-###
