@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">📫 Feel free to connect with me on LinkedIn</p>
+<p align="left">📫 **Feel free to connect with me on LinkedIn**</p>
 
 ###
 
